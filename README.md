@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Trainboo
-- 👀 I’m interested in geography;geology;video game
+- 👀 I’m interested in geography; geology; video game
 - 🌱 I’m currently learning basic knowledge of computer science
 
 <!---
